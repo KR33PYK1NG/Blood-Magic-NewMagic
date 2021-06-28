@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "blood-magic-newmagic.refmap.json",
+    "package": "rmc.mixins.blood_magic_newmagic.inject",
+    "mixins": [
+        "AlchemyArrayRegistryMixin"
+    ]
+}
